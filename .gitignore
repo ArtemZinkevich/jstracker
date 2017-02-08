@@ -1,3 +1,5 @@
 .idea
 *.iml
 target
+site/node
+site/node_modules
